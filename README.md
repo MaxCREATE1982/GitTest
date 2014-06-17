@@ -12,3 +12,7 @@
 # another test modification
 
 # test modification on new branch
+
+
+
+# this is a change on branch NewBranch
