@@ -9,3 +9,8 @@
 
 # conflict resolved
 
+# another test modification
+
+# conflict resolved
+
+# change in merge tool test branch
